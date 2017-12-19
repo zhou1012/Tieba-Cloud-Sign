@@ -8,9 +8,9 @@ define('DB_HOST','127.0.0.1');
 //MySQL 数据库用户名
 define('DB_USER','root');
 //MySQL 数据库密码
-define('DB_PASSWD','');
+define('DB_PASSWD','hujian');
 //MySQL 数据库名称
-define('DB_NAME','tiebacloud');
+define('DB_NAME','data');
 
 ////////////////////////////以下选项使用任何数据库都需填写////////////////////////////
 //数据库前缀，建议保持默认
